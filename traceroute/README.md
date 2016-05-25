@@ -7,4 +7,4 @@ x86_64
 Traceroute Dockerized and placed into the ENTRYPOINT.
 
 ## Usage
-`docker run jasonswindle/traceroute google.com`
+`docker run jasonswindle/docker-tools:traceroute google.com`
